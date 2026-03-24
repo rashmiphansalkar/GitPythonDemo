@@ -32,7 +32,7 @@ dic = {"a": 2, 4:"bcd", "c": "Hello world"}
 
 print(dic[4])
 print(dic["c"])
-
+print("asadsddfsfd")
 #
 dict = {}
 
